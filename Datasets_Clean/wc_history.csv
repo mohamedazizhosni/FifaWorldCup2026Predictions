@@ -1,0 +1,490 @@
+year,team,stage,stage_num,goals_for,goals_against,goal_diff,matches
+1930,Uruguay,winner,7,15,3,12,4
+1930,Argentina,finalist,6,18,9,9,5
+1930,United States,third_place,5,7,6,1,3
+1930,Yugoslavia,fourth_place,4,7,7,0,3
+1930,France,group_stage,0,4,3,1,3
+1930,Mexico,group_stage,0,4,13,-9,3
+1930,Belgium,group_stage,0,0,4,-4,2
+1930,Brazil,group_stage,0,5,2,3,2
+1930,Romania,group_stage,0,3,5,-2,2
+1930,Peru,group_stage,0,1,4,-3,2
+1930,Chile,group_stage,0,5,3,2,3
+1930,Bolivia,group_stage,0,0,8,-8,2
+1930,Paraguay,group_stage,0,1,3,-2,2
+1934,Italy,winner,7,12,3,9,5
+1934,Czech Republic,finalist,6,9,6,3,4
+1934,Germany,third_place,5,11,8,3,4
+1934,Austria,fourth_place,4,7,7,0,4
+1934,Hungary,quarter_finals,2,5,4,1,2
+1934,Switzerland,quarter_finals,2,5,5,0,2
+1934,Sweden,quarter_finals,2,4,4,0,2
+1934,Spain,quarter_finals,2,4,3,1,3
+1934,France,round_of_16,1,2,3,-1,1
+1934,Egypt,round_of_16,1,2,4,-2,1
+1934,Netherlands,round_of_16,1,2,3,-1,1
+1934,Argentina,round_of_16,1,2,3,-1,1
+1934,Belgium,round_of_16,1,2,5,-3,1
+1934,Brazil,round_of_16,1,1,3,-2,1
+1934,United States,round_of_16,1,1,7,-6,1
+1934,Romania,round_of_16,1,1,2,-1,1
+1938,Italy,winner,7,11,5,6,4
+1938,Hungary,finalist,6,15,5,10,4
+1938,Brazil,third_place,5,14,11,3,5
+1938,Sweden,fourth_place,4,11,9,2,3
+1938,Switzerland,quarter_finals,2,5,5,0,3
+1938,France,quarter_finals,2,4,4,0,2
+1938,Cuba,quarter_finals,2,5,12,-7,3
+1938,Czech Republic,quarter_finals,2,5,3,2,3
+1938,Germany,round_of_16,1,3,5,-2,2
+1938,Indonesia,round_of_16,1,0,6,-6,1
+1938,Belgium,round_of_16,1,1,3,-2,1
+1938,Romania,round_of_16,1,4,5,-1,2
+1938,Norway,round_of_16,1,1,2,-1,1
+1938,Poland,round_of_16,1,5,6,-1,1
+1938,Netherlands,round_of_16,1,0,3,-3,1
+1950,Uruguay,winner,7,15,5,10,4
+1950,Brazil,finalist,6,22,6,16,6
+1950,Sweden,third_place,5,11,15,-4,5
+1950,Spain,fourth_place,4,10,12,-2,6
+1950,Mexico,group_stage,0,2,10,-8,3
+1950,England,group_stage,0,2,2,0,3
+1950,Chile,group_stage,0,5,6,-1,3
+1950,United States,group_stage,0,4,8,-4,3
+1950,Italy,group_stage,0,4,3,1,2
+1950,Yugoslavia,group_stage,0,7,3,4,3
+1950,Switzerland,group_stage,0,4,6,-2,3
+1950,Paraguay,group_stage,0,2,4,-2,2
+1950,Bolivia,group_stage,0,0,8,-8,1
+1954,Germany,winner,7,25,14,11,6
+1954,Hungary,finalist,6,27,10,17,5
+1954,Austria,third_place,5,17,12,5,5
+1954,Uruguay,fourth_place,4,16,9,7,5
+1954,Brazil,quarter_finals,2,8,5,3,3
+1954,Yugoslavia,quarter_finals,2,2,3,-1,3
+1954,Switzerland,quarter_finals,2,11,11,0,4
+1954,England,quarter_finals,2,8,8,0,3
+1954,Czech Republic,group_stage,0,0,7,-7,2
+1954,Scotland,group_stage,0,0,8,-8,2
+1954,Mexico,group_stage,0,2,8,-6,2
+1954,France,group_stage,0,3,3,0,2
+1954,Italy,group_stage,0,6,7,-1,3
+1954,Turkey,group_stage,0,10,11,-1,3
+1954,South Korea,group_stage,0,0,16,-16,2
+1954,Belgium,group_stage,0,5,8,-3,2
+1958,Brazil,winner,7,16,4,12,6
+1958,Sweden,finalist,6,12,7,5,6
+1958,France,third_place,5,23,15,8,6
+1958,Germany,fourth_place,4,12,14,-2,6
+1958,Russia,quarter_finals,2,5,6,-1,5
+1958,Wales,quarter_finals,2,4,4,0,5
+1958,Yugoslavia,quarter_finals,2,7,7,0,4
+1958,Northern Ireland,quarter_finals,2,6,10,-4,5
+1958,Mexico,group_stage,0,1,8,-7,3
+1958,England,group_stage,0,4,5,-1,4
+1958,Argentina,group_stage,0,5,10,-5,3
+1958,Hungary,group_stage,0,7,5,2,4
+1958,Paraguay,group_stage,0,9,12,-3,3
+1958,Scotland,group_stage,0,4,6,-2,3
+1958,Austria,group_stage,0,2,7,-5,3
+1958,Czech Republic,group_stage,0,9,6,3,4
+1962,Brazil,winner,7,14,5,9,6
+1962,Czech Republic,finalist,6,7,7,0,6
+1962,Chile,third_place,5,10,8,2,6
+1962,Yugoslavia,fourth_place,4,10,7,3,6
+1962,Russia,quarter_finals,2,9,7,2,4
+1962,Hungary,quarter_finals,2,8,3,5,4
+1962,England,quarter_finals,2,5,6,-1,4
+1962,Germany,quarter_finals,2,4,2,2,4
+1962,Uruguay,group_stage,0,4,6,-2,3
+1962,Colombia,group_stage,0,5,11,-6,3
+1962,Mexico,group_stage,0,3,4,-1,3
+1962,Argentina,group_stage,0,2,3,-1,3
+1962,Bulgaria,group_stage,0,1,7,-6,3
+1962,Switzerland,group_stage,0,2,8,-6,3
+1962,Spain,group_stage,0,2,3,-1,3
+1962,Italy,group_stage,0,3,2,1,3
+1966,England,winner,7,11,3,8,6
+1966,Germany,finalist,6,15,6,9,6
+1966,Portugal,third_place,5,17,8,9,6
+1966,Russia,fourth_place,4,10,6,4,6
+1966,Uruguay,quarter_finals,2,2,5,-3,4
+1966,North Korea,quarter_finals,2,5,9,-4,4
+1966,Hungary,quarter_finals,2,8,7,1,4
+1966,Argentina,quarter_finals,2,4,2,2,4
+1966,Switzerland,group_stage,0,1,9,-8,3
+1966,Brazil,group_stage,0,4,6,-2,3
+1966,Bulgaria,group_stage,0,1,8,-7,3
+1966,France,group_stage,0,2,5,-3,3
+1966,Mexico,group_stage,0,1,3,-2,3
+1966,Spain,group_stage,0,4,5,-1,3
+1966,Italy,group_stage,0,2,2,0,3
+1966,Chile,group_stage,0,2,5,-3,3
+1970,Brazil,winner,7,19,7,12,6
+1970,Italy,finalist,6,10,8,2,6
+1970,Germany,third_place,5,17,10,7,6
+1970,Uruguay,fourth_place,4,4,5,-1,6
+1970,Mexico,quarter_finals,2,6,4,2,4
+1970,Russia,quarter_finals,2,6,2,4,4
+1970,Peru,quarter_finals,2,9,9,0,4
+1970,England,quarter_finals,2,4,4,0,4
+1970,Israel,group_stage,0,1,3,-2,3
+1970,Bulgaria,group_stage,0,5,9,-4,3
+1970,Romania,group_stage,0,4,5,-1,3
+1970,Sweden,group_stage,0,2,2,0,3
+1970,Morocco,group_stage,0,2,6,-4,3
+1970,Czech Republic,group_stage,0,2,7,-5,3
+1970,Belgium,group_stage,0,4,5,-1,3
+1970,El Salvador,group_stage,0,0,9,-9,3
+1974,Germany,winner,7,13,4,9,7
+1974,Netherlands,finalist,6,15,3,12,7
+1974,Poland,third_place,5,16,5,11,7
+1974,Brazil,fourth_place,4,6,4,2,7
+1974,Yugoslavia,round_of_16,1,12,7,5,6
+1974,East Germany,round_of_16,1,5,5,0,6
+1974,Sweden,round_of_16,1,7,6,1,6
+1974,Argentina,round_of_16,1,9,12,-3,6
+1974,Chile,group_stage,0,1,2,-1,3
+1974,Australia,group_stage,0,0,5,-5,3
+1974,DR Congo,group_stage,0,0,14,-14,3
+1974,Scotland,group_stage,0,3,1,2,3
+1974,Uruguay,group_stage,0,1,6,-5,3
+1974,Bulgaria,group_stage,0,2,5,-3,3
+1974,Italy,group_stage,0,5,4,1,3
+1974,Haiti,group_stage,0,2,14,-12,3
+1978,Argentina,winner,7,15,4,11,7
+1978,Netherlands,finalist,6,15,10,5,7
+1978,Brazil,third_place,5,10,3,7,7
+1978,Italy,fourth_place,4,9,6,3,7
+1978,Germany,round_of_16,1,10,5,5,6
+1978,Poland,round_of_16,1,6,6,0,6
+1978,Austria,round_of_16,1,7,10,-3,6
+1978,Peru,round_of_16,1,7,12,-5,6
+1978,France,group_stage,0,5,5,0,3
+1978,Tunisia,group_stage,0,3,2,1,3
+1978,Mexico,group_stage,0,2,12,-10,3
+1978,Hungary,group_stage,0,3,8,-5,3
+1978,Sweden,group_stage,0,1,3,-2,3
+1978,Spain,group_stage,0,2,2,0,3
+1978,Scotland,group_stage,0,5,6,-1,3
+1978,Iran,group_stage,0,2,8,-6,3
+1982,Italy,winner,7,12,6,6,7
+1982,Germany,finalist,6,12,10,2,7
+1982,Poland,third_place,5,11,5,6,7
+1982,France,fourth_place,4,16,12,4,7
+1982,Argentina,round_of_16,1,8,7,1,5
+1982,Belgium,round_of_16,1,3,5,-2,5
+1982,Brazil,round_of_16,1,15,6,9,5
+1982,Russia,round_of_16,1,7,4,3,5
+1982,England,round_of_16,1,6,1,5,5
+1982,Spain,round_of_16,1,4,5,-1,5
+1982,Austria,round_of_16,1,5,4,1,5
+1982,Northern Ireland,round_of_16,1,5,7,-2,5
+1982,Peru,group_stage,0,2,6,-4,3
+1982,Cameroon,group_stage,0,1,1,0,3
+1982,Hungary,group_stage,0,12,6,6,3
+1982,El Salvador,group_stage,0,1,13,-12,3
+1982,Scotland,group_stage,0,8,8,0,3
+1982,New Zealand,group_stage,0,2,12,-10,3
+1982,Algeria,group_stage,0,5,5,0,3
+1982,Honduras,group_stage,0,2,3,-1,3
+1982,Chile,group_stage,0,3,8,-5,3
+1982,Czech Republic,group_stage,0,2,4,-2,3
+1982,Kuwait,group_stage,0,2,6,-4,3
+1982,Yugoslavia,group_stage,0,2,2,0,3
+1986,Argentina,winner,7,14,5,9,7
+1986,Germany,finalist,6,8,7,1,7
+1986,France,third_place,5,12,6,6,7
+1986,Belgium,fourth_place,4,12,15,-3,7
+1986,Spain,quarter_finals,2,11,4,7,5
+1986,Brazil,quarter_finals,2,10,1,9,5
+1986,Mexico,quarter_finals,2,6,2,4,5
+1986,England,quarter_finals,2,7,3,4,5
+1986,Bulgaria,round_of_16,1,2,6,-4,4
+1986,Italy,round_of_16,1,5,6,-1,4
+1986,Russia,round_of_16,1,12,5,7,4
+1986,Morocco,round_of_16,1,3,2,1,4
+1986,Poland,round_of_16,1,1,7,-6,4
+1986,Paraguay,round_of_16,1,4,6,-2,4
+1986,Uruguay,round_of_16,1,2,8,-6,4
+1986,Denmark,round_of_16,1,10,6,4,4
+1986,Canada,group_stage,0,0,5,-5,3
+1986,Hungary,group_stage,0,2,9,-7,3
+1986,South Korea,group_stage,0,4,7,-3,3
+1986,Algeria,group_stage,0,1,5,-4,3
+1986,Northern Ireland,group_stage,0,2,6,-4,3
+1986,Portugal,group_stage,0,2,4,-2,3
+1986,Iraq,group_stage,0,1,4,-3,3
+1986,Scotland,group_stage,0,1,3,-2,3
+1990,Germany,winner,7,15,5,10,7
+1990,Argentina,finalist,6,5,4,1,7
+1990,Italy,third_place,5,10,2,8,7
+1990,England,fourth_place,4,8,6,2,7
+1990,Cameroon,quarter_finals,2,7,9,-2,5
+1990,Czech Republic,quarter_finals,2,10,5,5,5
+1990,Yugoslavia,quarter_finals,2,8,6,2,5
+1990,Republic of Ireland,quarter_finals,2,2,3,-1,5
+1990,Romania,round_of_16,1,4,3,1,4
+1990,Colombia,round_of_16,1,4,4,0,4
+1990,Brazil,round_of_16,1,4,2,2,4
+1990,Costa Rica,round_of_16,1,4,6,-2,4
+1990,Belgium,round_of_16,1,6,4,2,4
+1990,Netherlands,round_of_16,1,3,4,-1,4
+1990,Uruguay,round_of_16,1,2,5,-3,4
+1990,Spain,round_of_16,1,6,4,2,4
+1990,Russia,group_stage,0,4,4,0,3
+1990,United Arab Emirates,group_stage,0,2,11,-9,3
+1990,Austria,group_stage,0,2,3,-1,3
+1990,United States,group_stage,0,2,8,-6,3
+1990,Sweden,group_stage,0,3,6,-3,3
+1990,Scotland,group_stage,0,2,3,-1,3
+1990,South Korea,group_stage,0,1,6,-5,3
+1990,Egypt,group_stage,0,1,2,-1,3
+1994,Brazil,winner,7,11,3,8,7
+1994,Italy,finalist,6,8,5,3,7
+1994,Sweden,third_place,5,15,8,7,7
+1994,Bulgaria,fourth_place,4,10,11,-1,7
+1994,Germany,quarter_finals,2,9,7,2,5
+1994,Spain,quarter_finals,2,10,6,4,5
+1994,Romania,quarter_finals,2,10,9,1,5
+1994,Netherlands,quarter_finals,2,8,6,2,5
+1994,United States,round_of_16,1,3,4,-1,4
+1994,Switzerland,round_of_16,1,5,7,-2,4
+1994,Republic of Ireland,round_of_16,1,2,4,-2,4
+1994,Belgium,round_of_16,1,4,4,0,4
+1994,Mexico,round_of_16,1,4,4,0,4
+1994,Saudi Arabia,round_of_16,1,5,6,-1,4
+1994,Argentina,round_of_16,1,8,6,2,4
+1994,Nigeria,round_of_16,1,7,4,3,4
+1994,Bolivia,group_stage,0,1,4,-3,3
+1994,South Korea,group_stage,0,4,5,-1,3
+1994,Colombia,group_stage,0,4,5,-1,3
+1994,Morocco,group_stage,0,2,5,-3,3
+1994,Norway,group_stage,0,1,1,0,3
+1994,Cameroon,group_stage,0,3,11,-8,3
+1994,Russia,group_stage,0,7,6,1,3
+1994,Greece,group_stage,0,0,10,-10,3
+1998,France,winner,7,15,2,13,7
+1998,Brazil,finalist,6,14,10,4,7
+1998,Croatia,third_place,5,11,5,6,7
+1998,Netherlands,fourth_place,4,13,7,6,7
+1998,Italy,quarter_finals,2,8,3,5,5
+1998,Denmark,quarter_finals,2,9,7,2,5
+1998,Argentina,quarter_finals,2,10,4,6,5
+1998,Germany,quarter_finals,2,8,6,2,5
+1998,Norway,round_of_16,1,5,5,0,4
+1998,Chile,round_of_16,1,5,8,-3,4
+1998,Paraguay,round_of_16,1,3,2,1,4
+1998,Nigeria,round_of_16,1,6,9,-3,4
+1998,Mexico,round_of_16,1,8,7,1,4
+1998,Yugoslavia,round_of_16,1,5,4,1,4
+1998,England,round_of_16,1,7,4,3,4
+1998,Romania,round_of_16,1,4,3,1,4
+1998,Scotland,group_stage,0,2,6,-4,3
+1998,Morocco,group_stage,0,5,5,0,3
+1998,Cameroon,group_stage,0,2,5,-3,3
+1998,Austria,group_stage,0,3,4,-1,3
+1998,Bulgaria,group_stage,0,1,7,-6,3
+1998,Saudi Arabia,group_stage,0,2,7,-5,3
+1998,South Africa,group_stage,0,3,6,-3,3
+1998,Spain,group_stage,0,8,4,4,3
+1998,South Korea,group_stage,0,2,9,-7,3
+1998,Belgium,group_stage,0,3,3,0,3
+1998,Japan,group_stage,0,1,4,-3,3
+1998,Iran,group_stage,0,2,4,-2,3
+1998,Jamaica,group_stage,0,3,9,-6,3
+1998,Tunisia,group_stage,0,1,4,-3,3
+1998,Colombia,group_stage,0,1,3,-2,3
+1998,United States,group_stage,0,1,5,-4,3
+2002,Brazil,winner,7,18,4,14,7
+2002,Germany,finalist,6,14,3,11,7
+2002,Turkey,third_place,5,10,6,4,7
+2002,South Korea,fourth_place,4,8,6,2,7
+2002,Senegal,quarter_finals,2,7,6,1,5
+2002,England,quarter_finals,2,6,3,3,5
+2002,Spain,quarter_finals,2,10,5,5,5
+2002,United States,quarter_finals,2,7,7,0,5
+2002,Republic of Ireland,round_of_16,1,6,3,3,4
+2002,Denmark,round_of_16,1,5,5,0,4
+2002,Paraguay,round_of_16,1,6,7,-1,4
+2002,Sweden,round_of_16,1,5,5,0,4
+2002,Mexico,round_of_16,1,4,4,0,4
+2002,Italy,round_of_16,1,5,5,0,4
+2002,Japan,round_of_16,1,5,3,2,4
+2002,Belgium,round_of_16,1,6,7,-1,4
+2002,France,group_stage,0,0,3,-3,3
+2002,Cameroon,group_stage,0,2,3,-1,3
+2002,Uruguay,group_stage,0,4,5,-1,3
+2002,Saudi Arabia,group_stage,0,0,12,-12,3
+2002,Argentina,group_stage,0,2,2,0,3
+2002,Nigeria,group_stage,0,1,3,-2,3
+2002,South Africa,group_stage,0,5,5,0,3
+2002,Slovenia,group_stage,0,2,7,-5,3
+2002,Croatia,group_stage,0,2,3,-1,3
+2002,Ecuador,group_stage,0,2,4,-2,3
+2002,China,group_stage,0,0,9,-9,3
+2002,Costa Rica,group_stage,0,5,6,-1,3
+2002,Poland,group_stage,0,3,7,-4,3
+2002,Russia,group_stage,0,4,4,0,3
+2002,Tunisia,group_stage,0,1,5,-4,3
+2002,Portugal,group_stage,0,6,4,2,3
+2006,Italy,winner,7,12,2,10,7
+2006,France,finalist,6,9,3,6,7
+2006,Germany,third_place,5,14,6,8,7
+2006,Portugal,fourth_place,4,7,5,2,7
+2006,England,quarter_finals,2,6,2,4,5
+2006,Argentina,quarter_finals,2,11,3,8,5
+2006,Brazil,quarter_finals,2,10,2,8,5
+2006,Ukraine,quarter_finals,2,5,7,-2,5
+2006,Ecuador,round_of_16,1,5,4,1,4
+2006,Sweden,round_of_16,1,3,4,-1,4
+2006,Netherlands,round_of_16,1,3,2,1,4
+2006,Mexico,round_of_16,1,5,5,0,4
+2006,Australia,round_of_16,1,5,6,-1,4
+2006,Ghana,round_of_16,1,4,6,-2,4
+2006,Switzerland,round_of_16,1,4,0,4,4
+2006,Spain,round_of_16,1,9,4,5,4
+2006,Costa Rica,group_stage,0,3,9,-6,3
+2006,Poland,group_stage,0,2,4,-2,3
+2006,Paraguay,group_stage,0,2,2,0,3
+2006,Trinidad and Tobago,group_stage,0,0,4,-4,3
+2006,Ivory Coast,group_stage,0,5,6,-1,3
+2006,Serbia,group_stage,0,2,10,-8,3
+2006,Iran,group_stage,0,2,6,-4,3
+2006,Angola,group_stage,0,1,2,-1,3
+2006,Japan,group_stage,0,2,7,-5,3
+2006,United States,group_stage,0,2,6,-4,3
+2006,Czech Republic,group_stage,0,3,4,-1,3
+2006,South Korea,group_stage,0,3,4,-1,3
+2006,Togo,group_stage,0,1,6,-5,3
+2006,Croatia,group_stage,0,2,3,-1,3
+2006,Tunisia,group_stage,0,3,6,-3,3
+2006,Saudi Arabia,group_stage,0,2,7,-5,3
+2010,Spain,winner,7,8,2,6,7
+2010,Netherlands,finalist,6,12,6,6,7
+2010,Germany,third_place,5,16,5,11,7
+2010,Uruguay,fourth_place,4,11,8,3,7
+2010,Argentina,quarter_finals,2,10,6,4,5
+2010,Ghana,quarter_finals,2,5,4,1,5
+2010,Paraguay,quarter_finals,2,3,2,1,5
+2010,Brazil,quarter_finals,2,9,4,5,5
+2010,Mexico,round_of_16,1,4,5,-1,4
+2010,South Korea,round_of_16,1,6,8,-2,4
+2010,England,round_of_16,1,3,5,-2,4
+2010,United States,round_of_16,1,5,5,0,4
+2010,Japan,round_of_16,1,4,2,2,4
+2010,Slovakia,round_of_16,1,5,7,-2,4
+2010,Portugal,round_of_16,1,7,1,6,4
+2010,Chile,round_of_16,1,3,5,-2,4
+2010,South Africa,group_stage,0,3,5,-2,3
+2010,France,group_stage,0,1,4,-3,3
+2010,Greece,group_stage,0,2,5,-3,3
+2010,Nigeria,group_stage,0,3,5,-2,3
+2010,Algeria,group_stage,0,0,2,-2,3
+2010,Slovenia,group_stage,0,3,3,0,3
+2010,Serbia,group_stage,0,2,3,-1,3
+2010,Australia,group_stage,0,3,6,-3,3
+2010,Denmark,group_stage,0,3,6,-3,3
+2010,Cameroon,group_stage,0,2,5,-3,3
+2010,Italy,group_stage,0,4,5,-1,3
+2010,New Zealand,group_stage,0,2,2,0,3
+2010,Ivory Coast,group_stage,0,4,3,1,3
+2010,North Korea,group_stage,0,1,12,-11,3
+2010,Honduras,group_stage,0,0,3,-3,3
+2010,Switzerland,group_stage,0,1,1,0,3
+2014,Germany,winner,7,18,4,14,7
+2014,Argentina,finalist,6,8,4,4,7
+2014,Netherlands,third_place,5,15,4,11,7
+2014,Brazil,fourth_place,4,11,14,-3,7
+2014,Colombia,quarter_finals,2,12,4,8,5
+2014,Costa Rica,quarter_finals,2,5,2,3,5
+2014,France,quarter_finals,2,10,3,7,5
+2014,Belgium,quarter_finals,2,6,3,3,5
+2014,Mexico,round_of_16,1,5,3,2,4
+2014,Chile,round_of_16,1,6,4,2,4
+2014,Greece,round_of_16,1,3,5,-2,4
+2014,Uruguay,round_of_16,1,4,6,-2,4
+2014,Switzerland,round_of_16,1,7,7,0,4
+2014,Nigeria,round_of_16,1,3,5,-2,4
+2014,United States,round_of_16,1,5,6,-1,4
+2014,Algeria,round_of_16,1,7,7,0,4
+2014,Croatia,group_stage,0,6,6,0,3
+2014,Cameroon,group_stage,0,1,9,-8,3
+2014,Spain,group_stage,0,4,7,-3,3
+2014,Australia,group_stage,0,3,9,-6,3
+2014,England,group_stage,0,2,4,-2,3
+2014,Italy,group_stage,0,2,3,-1,3
+2014,Ivory Coast,group_stage,0,4,5,-1,3
+2014,Japan,group_stage,0,2,6,-4,3
+2014,Ecuador,group_stage,0,3,3,0,3
+2014,Honduras,group_stage,0,1,8,-7,3
+2014,Bosnia and Herzegovina,group_stage,0,4,4,0,3
+2014,Portugal,group_stage,0,4,7,-3,3
+2014,Iran,group_stage,0,1,4,-3,3
+2014,Ghana,group_stage,0,4,6,-2,3
+2014,Russia,group_stage,0,2,3,-1,3
+2014,South Korea,group_stage,0,3,6,-3,3
+2018,France,winner,7,14,6,8,7
+2018,Croatia,finalist,6,14,9,5,7
+2018,Belgium,third_place,5,16,6,10,7
+2018,England,fourth_place,4,12,8,4,7
+2018,Russia,quarter_finals,2,11,7,4,5
+2018,Uruguay,quarter_finals,2,7,3,4,5
+2018,Brazil,quarter_finals,2,8,3,5,5
+2018,Sweden,quarter_finals,2,6,4,2,5
+2018,Portugal,round_of_16,1,6,6,0,4
+2018,Spain,round_of_16,1,7,6,1,4
+2018,Argentina,round_of_16,1,6,9,-3,4
+2018,Denmark,round_of_16,1,3,2,1,4
+2018,Mexico,round_of_16,1,3,6,-3,4
+2018,Switzerland,round_of_16,1,5,5,0,4
+2018,Colombia,round_of_16,1,6,3,3,4
+2018,Japan,round_of_16,1,6,7,-1,4
+2018,Saudi Arabia,group_stage,0,2,7,-5,3
+2018,Egypt,group_stage,0,2,6,-4,3
+2018,Morocco,group_stage,0,2,4,-2,3
+2018,Iran,group_stage,0,2,2,0,3
+2018,Australia,group_stage,0,2,5,-3,3
+2018,Iceland,group_stage,0,2,5,-3,3
+2018,Peru,group_stage,0,2,2,0,3
+2018,Nigeria,group_stage,0,3,4,-1,3
+2018,Costa Rica,group_stage,0,2,5,-3,3
+2018,Serbia,group_stage,0,2,4,-2,3
+2018,Germany,group_stage,0,2,4,-2,3
+2018,South Korea,group_stage,0,3,3,0,3
+2018,Panama,group_stage,0,2,11,-9,3
+2018,Tunisia,group_stage,0,5,8,-3,3
+2018,Poland,group_stage,0,2,5,-3,3
+2018,Senegal,group_stage,0,4,4,0,3
+2022,Argentina,winner,7,15,8,7,7
+2022,France,finalist,6,16,8,8,7
+2022,Croatia,third_place,5,8,7,1,7
+2022,Morocco,fourth_place,4,6,5,1,7
+2022,Netherlands,quarter_finals,2,10,4,6,5
+2022,England,quarter_finals,2,13,4,9,5
+2022,Brazil,quarter_finals,2,8,3,5,5
+2022,Portugal,quarter_finals,2,12,6,6,5
+2022,Senegal,round_of_16,1,5,7,-2,4
+2022,United States,round_of_16,1,3,4,-1,4
+2022,Poland,round_of_16,1,3,5,-2,4
+2022,Australia,round_of_16,1,4,6,-2,4
+2022,Japan,round_of_16,1,5,4,1,4
+2022,Spain,round_of_16,1,9,3,6,4
+2022,Switzerland,round_of_16,1,5,9,-4,4
+2022,South Korea,round_of_16,1,5,8,-3,4
+2022,Qatar,group_stage,0,1,7,-6,3
+2022,Ecuador,group_stage,0,4,3,1,3
+2022,Iran,group_stage,0,4,7,-3,3
+2022,Wales,group_stage,0,1,6,-5,3
+2022,Saudi Arabia,group_stage,0,3,5,-2,3
+2022,Mexico,group_stage,0,2,3,-1,3
+2022,Denmark,group_stage,0,1,3,-2,3
+2022,Tunisia,group_stage,0,1,1,0,3
+2022,Germany,group_stage,0,6,5,1,3
+2022,Costa Rica,group_stage,0,3,11,-8,3
+2022,Belgium,group_stage,0,1,2,-1,3
+2022,Canada,group_stage,0,2,7,-5,3
+2022,Cameroon,group_stage,0,4,4,0,3
+2022,Serbia,group_stage,0,5,8,-3,3
+2022,Uruguay,group_stage,0,2,2,0,3
+2022,Ghana,group_stage,0,5,7,-2,3
